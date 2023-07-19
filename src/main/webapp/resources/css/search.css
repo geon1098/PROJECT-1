@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.integrate_cont {
+    padding: 27px 150px 20px;
+    border-top: 1px solid #eee;
+    margin-top: 12px;
+}
+
+.integrate_cont_head {
+    position: relative;
+}
+ul {
+    list-style: none;
+}
+li {
+	margin-top:3px;
+	marhin-bottom:3px;
+}
+a {
+	color: darkgreen;
+}
+.result_more {
+	position: relative;
+    margin-top: 5px;
+    color: #999;
+    float: right;
+}
+.writedate {
+	font-size: 6px;
+	color: #b4b4b4;	
+}

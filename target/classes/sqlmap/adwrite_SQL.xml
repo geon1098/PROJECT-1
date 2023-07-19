@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE  mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="adboard">
+
+	<insert id="adwrite_insert" parameterType="hashMap"
+		useGeneratedKeys="true" keyProperty="adb_num">
+    <![CDATA[
+    insert into adboard
+    (adb_title, adb_content, user_id ,ad_category)
+    values
+    (#{adb_title}, #{adb_content}, #{user_id}, #{ad_category})
+    
+    ]]>
+	</insert>
+	
+		<!-- 게시글 상세 쿼리 -->
+	<select id="adselect_detail" parameterType="hashMap"
+		resultType="hashMap">
+    <![CDATA[
+        select
+        adb_title,
+       adb_content,
+       ad_category,
+		adb_cdate
+        from
+        adboard
+        where
+        adb_num = #{adbNum}
+    ]]>
+	</select>
+	
+	<!-- 게시글 업데이트 쿼리 -->
+	<update id="adupdate" parameterType="hashMap">  
+	<![CDATA[  
+	update adboard set  
+	adb_title = #{adb_title},  
+	ad_category = #{ad_category},  
+	adb_content = #{adb_content}
+	where  
+	adb_num = #{adbNum}  
+	]]>
+	</update>
+	
+	<!-- 게시글 삭제 쿼리 -->
+	<delete id="addelete" parameterType="hashMap">  
+	<![CDATA[  
+	delete from adboard  
+	where  
+	adb_num = #{adbNum}  
+	]]>
+	</delete>
+	
+	<!-- 게시글 목록 + 검색 쿼리 -->
+	<select id="adselect_list" parameterType="hashMap"
+		resultType="hashMap">  
+	<![CDATA[  
+	select
+	adb_num,
+	adb_title,  
+	ad_category,
+	adb_cdate,
+	adb_content
+	from
+	adboard
+	where 1=1
+
+	]]>
+		<if test="keyword != null and keyword != ''">
+			and (ad_category like CONCAT('%',#{keyword},'%') 
+			or adb_title like CONCAT('%',#{keyword},'%')
+			or adb_content like CONCAT('%',#{keyword},'%')
+			)
+		</if>
+		
+		
+		order by adb_cdate desc
+
+	</select>
+	
+</mapper>

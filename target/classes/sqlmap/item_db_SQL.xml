@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE  mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="item">
+
+	<insert id="insert" parameterType="hashMap" useGeneratedKeys="true" keyProperty="item_num">  
+    <![CDATA[
+    insert into item
+    (item_num, item_name, b_category, s_category, proof, origin,race,p_year,i_introduce,m_place,img)
+    values
+    (#{item_num}, #{item_name}, #{b_category}, #{s_category}, #{proof}, #{origin},#{race},#{p_year},#{i_introduce},#{m_place},#{img})
+    ]]>
+    </insert>
+
+	<select id="select_introduce" parameterType="hashMap" resultType="hashMap">
+    <![CDATA[
+    select item_num,item_name,b_category,s_category,proof,origin,race,p_year,i_introduce,m_place,img
+    from
+    item
+    where
+    item_num= #{itemNum}   
+    ]]>
+	</select>
+</mapper>
