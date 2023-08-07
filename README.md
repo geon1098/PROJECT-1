@@ -1,3 +1,32 @@
+<!-- HTML 코드 -->
+<div id="container">
+  <h1 id="centered-text">UnpreProject</h1>
+</div>
+
+<!-- CSS 코드 -->
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  #container {
+    background-color: #FF3399;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  #centered-text {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #FF3399;
+  }
+</style>
 # 소개
 주류정보사이트는 다양한 종류의 주류에 관한 정보를 제공하는 온라인 플랫폼입니다.<br>
 이 사이트는 다양한 주류 제조사와 브랜드의 제품 정보, 리뷰, 평가 및 가격 정보를 제공하여<br>
