@@ -36,10 +36,8 @@
 
 
 # ERD 
-![데이터베이스]()
-
-
-
+  
+![데이터베이스](https://github.com/geon1098/IMG_project-1/blob/master/ERD.png)
 
 
 <br>
