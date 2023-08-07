@@ -1,6 +1,5 @@
+# 프로젝트 소개
 
-
-# 소개
 주류정보사이트는 다양한 종류의 주류에 관한 정보를 제공하는 온라인 플랫폼입니다.<br>
 이 사이트는 다양한 주류 제조사와 브랜드의 제품 정보, 리뷰, 평가 및 가격 정보를 제공하여<br>
 소비자들이 최적의 주류를 선택할 수 있도록 돕습니다. 또한 주류에 관련된 뉴스, 이벤트 등<br>
@@ -30,9 +29,9 @@
 <br>
 <br>
 <br>
+
 # 화면 구현
-메인화면<br>
-# 메인
+# 메인화면
 ![메인](https://github.com/geon1098/IMG_project-1/blob/master/1%EC%B0%A8%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
 ![검색창](https://github.com/geon1098/IMG_project-1/blob/master/%EB%A9%94%EC%9D%B8%EA%B2%80%EC%83%89.png)
 ![검색리스트](https://github.com/geon1098/IMG_project-1/blob/master/%EA%B2%80%EC%83%89%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)
