@@ -32,6 +32,25 @@
 <br>
 <br>
 
+
+
+
+# ERD 
+![데이터베이스]()
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # 화면 구현
 # 메인화면
 ![메인](https://github.com/geon1098/IMG_project-1/blob/master/1%EC%B0%A8%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
