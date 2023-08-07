@@ -37,7 +37,7 @@
 
 # ERD 
   
-![데이터베이스]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/ERD.png)
+![데이터베이스](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/ERD.png)
 
 
 <br>
@@ -51,9 +51,9 @@
 
 # 화면 구현
 # 메인화면
-![메인]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/1%EC%B0%A8%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
-![검색창]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EB%A9%94%EC%9D%B8%EA%B2%80%EC%83%89.png)
-![검색리스트]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EA%B2%80%EC%83%89%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![메인](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/1%EC%B0%A8%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+![검색창](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EB%A9%94%EC%9D%B8%EA%B2%80%EC%83%89.png)
+![검색리스트](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EA%B2%80%EC%83%89%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
 <br>
 <br>
@@ -62,10 +62,10 @@
 <br>
 
 # 게시판
-![전체게시판]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%A0%84%EC%B2%B4%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
-![와인게시판]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%99%80%EC%9D%B8%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
-![위스키게시판]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%9C%84%EC%8A%A4%ED%82%A4%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
-![맥주게시판]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EB%A7%A5%EC%A3%BC%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+![전체게시판](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%A0%84%EC%B2%B4%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+![와인게시판](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%99%80%EC%9D%B8%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+![위스키게시판](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%9C%84%EC%8A%A4%ED%82%A4%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+![맥주게시판](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EB%A7%A5%EC%A3%BC%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
 
 <br>
 <br>
@@ -74,12 +74,12 @@
 <br>
 
 # 주류상세정보
-![와인종류]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%99%80%EC%9D%B8%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4.png)
-![와인상세정보]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%99%80%EC%9D%B8%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%ED%8E%98%EC%9D%B4%EC%A7%802.png)
-![위스키종류]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%9C%84%EC%8A%A4%ED%82%A4%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4.png)
-![위스키상세정보]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%99%80%EC%9D%B8%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%ED%8E%98%EC%9D%B4%EC%A7%80.png)
-![맥주종류]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EB%A7%A5%EC%A3%BC%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4.png)
-![맥주상세정보]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EB%A7%A5%EC%A3%BC%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![와인종류](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%99%80%EC%9D%B8%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4.png)
+![와인상세정보](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%99%80%EC%9D%B8%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%ED%8E%98%EC%9D%B4%EC%A7%802.png)
+![위스키종류](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%9C%84%EC%8A%A4%ED%82%A4%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4.png)
+![위스키상세정보](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%99%80%EC%9D%B8%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![맥주종류](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EB%A7%A5%EC%A3%BC%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4.png)
+![맥주상세정보](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EB%A7%A5%EC%A3%BC%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
 <br>
 <br>
@@ -89,8 +89,8 @@
 
 # bar 화면
 
-![바화면]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/SNS%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png)
-![SNS링크]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%9C%A0%EB%AA%85%ED%95%9C%20%EB%B0%94%20%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![바화면](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/SNS%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![SNS링크](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%9C%A0%EB%AA%85%ED%95%9C%20%EB%B0%94%20%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
 <br>
 <br>
@@ -99,7 +99,7 @@
 <br>
 
 # 챗봇
-![채팅화면]([https://github.com](https://raw.githubusercontent.com/geon1098/IMG_project-1/blob/master/%EC%B1%97%EB%B4%87%20.png)
+![채팅화면](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%B1%97%EB%B4%87%20.png)
 
 
 
