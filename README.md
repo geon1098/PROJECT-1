@@ -14,42 +14,8 @@
 <br>![Bootstrap 뱃지](https://img.shields.io/badge/library-Bootstrap-blueviolet)
 <br>
 <br>
-<br>
-<br>
-# 팀
-남건우: 주류상세정보 및 데이터베이스<br>
-
-
-임준원: 주류상세정보 및 데이터베이스<br>
-이승훈: 회원가입 및 게시판 및 데이터베이스<br>
-박성현: 회원가입 및 로그인 및 데이터베이스<br>
-조대광(조장): 메인화면 화면구현 및 감독 및 데이터베이스<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
 # ERD 
-  
 ![데이터베이스](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/ERD.png)
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 # 화면 구현
 # 메인화면
