@@ -61,7 +61,7 @@ public class WriteController {
 		}
 	}
 
-	// 수정 페이지?
+	// 수정 페이지
 	@RequestMapping(value = "/update", method = RequestMethod.GET)
 	public ModelAndView update(@RequestParam Map<String, Object> map) {
 		Map<String, Object> detailMap = this.writeService.detail(map);
